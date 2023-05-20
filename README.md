@@ -29,7 +29,7 @@
 [SEA] - 삼성SW Expert Academy
 [ETC] - 그외
 ```
-##### 작성법 예시 : `ex) git commit -m "code : [BOJ] Hello World / 브론즈5"`
+##### 작성법 예시 : `ex) git commit -m "code: [BOJ] Hello World / 브론즈5"`
 
 <br/>
 
