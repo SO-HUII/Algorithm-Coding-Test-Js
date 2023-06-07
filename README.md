@@ -116,3 +116,10 @@ int main(void){
 - 알고리즘, 자료구조 유형별 개념 학습 탄탄히 하기
 - 올해 안에 프로그래머스 Lv2 문제 무난히 풀기
 - PCCP Lv2 취득하기
+
+## 🌈 학습 사이트
+1. [Inflearn] 자바스크립트 알고리즘 문제풀이 입문 : https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/dashboard
+2. [BAEKJOON] : https://www.acmicpc.net/
+3. [LEETCODE] : https://leetcode.com/
+4. [PROGRAMMERS] : https://programmers.co.kr/
+5. [YOUTUBE] 코딩문, 자바스크립트 코딩테스트 문제풀이 : https://youtu.be/zbH7YqUxFpA
