@@ -34,7 +34,7 @@ for(let i = 0; i < numArr.length - 1; i++) {
 
 ### 🎉 새로 알게된 점은?
 
-minNum으로 인덱스 값을 저장하지 않고
+`minNum`으로 인덱스 값을 저장하지 않고
 ```javascript
 for (let i = 0; i < arr.length - 1; i++) {
     for (let j = i + 1; j < arr.length; j++) { 
