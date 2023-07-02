@@ -1,5 +1,5 @@
 function solution(numArr) {
-    let answer;
+    let answer = numArr;
     let minNum = Number.MAX_SAFE_INTEGER;
     
     for(let i = 0; i < numArr.length - 1; i++) {
@@ -10,7 +10,6 @@ function solution(numArr) {
         // 배열의 구조분해할당 -> 두 변수에 저장된 값 교환(swaping)
         [numArr[i], numArr[minNum]] = [numArr[minNum], numArr[i]]; 
     }
-    answer = numArr;
     return answer;
 }
 
