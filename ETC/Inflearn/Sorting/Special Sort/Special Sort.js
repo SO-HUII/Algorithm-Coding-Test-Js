@@ -1,5 +1,5 @@
 function solution(numArr) {
-    let answer;
+    let answer = numArr;
 
     for(let i = 0; i < numArr.length - 1; i++) {
         for(let j = 0; j < numArr.length - i - 1; j++) {
@@ -8,8 +8,7 @@ function solution(numArr) {
             }        
         }
     }
-    answer = numArr.join(' ');
-    return answer;
+    return answer.join(' ');
 }
 
 let numArr = [1, 2, 3, -3, -2, 5, 6, -6];
