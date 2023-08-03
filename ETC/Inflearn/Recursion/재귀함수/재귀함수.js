@@ -9,6 +9,5 @@ function solution(num) {
     }
     DFS(num);
 }
-
 let num = 3;
 solution(num);
